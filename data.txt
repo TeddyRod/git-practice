@@ -1,0 +1,3 @@
+Name : Teddy
+age : 37
+Favorite Color : Black
